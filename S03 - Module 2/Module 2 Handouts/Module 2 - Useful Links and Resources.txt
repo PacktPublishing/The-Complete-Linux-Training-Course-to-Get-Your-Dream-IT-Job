@@ -1,0 +1,5 @@
+Oracle VirtualBox
+https://www.virtualbox.org/wiki/Downloads
+
+Ubuntu Download Location
+https://ubuntu.com/download/desktop
